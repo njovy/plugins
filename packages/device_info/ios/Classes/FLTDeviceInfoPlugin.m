@@ -2,13 +2,10 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-<<<<<<< HEAD:packages/device_info/ios/Classes/DeviceInfoPlugin.m
-#import "DeviceInfoPlugin.h"
+#import "FLTDeviceInfoPlugin.h"
 #import "SAMKeychain.h"
 #import "SAMKeychainQuery.h"
-=======
-#import "FLTDeviceInfoPlugin.h"
->>>>>>> upstream/master:packages/device_info/ios/Classes/FLTDeviceInfoPlugin.m
+
 #import <sys/utsname.h>
 
 @implementation FLTDeviceInfoPlugin
